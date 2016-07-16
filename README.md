@@ -15,7 +15,7 @@ To install node-redmine, simply:
 npm install node-redmine
 ```
 ## Usage
-```
+```js
 var Redmine = require('node-redmine');
 
 ///////////////////////////////////////////////////////////////
