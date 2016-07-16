@@ -1,6 +1,10 @@
 node-redmine
 ===============
 
+This repo is a fork from the original [node-redmine](https://github.com/zanran/node-redmine).
+
+I remove node dependency as I add more dependencies 😭.
+
 # [![Build Status](https://travis-ci.org/zanran/node-redmine.svg?branch=master)](https://travis-ci.org/zanran/node-redmine)   [![npm version](https://img.shields.io/npm/v/node-redmine.svg?style=flat)](https://www.npmjs.com/package/node-redmine)
 
 *[node-redmine](https://github.com/zanran/node-redmine) is a nodejs library which supports 100% features of [Redmine's REST API](http://www.redmine.org/projects/redmine/wiki/Rest_api).*
